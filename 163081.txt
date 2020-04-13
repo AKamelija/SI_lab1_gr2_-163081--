@@ -1,0 +1,11 @@
+$ git clone https://github.com/finkiSI/SI_lab1_gr2  -- kloniranjena repoto od linkot bo laboratoriskata vezba
+mv SI_lab1_gr2 SI_lab1_gr2_163081  -- preimenuvanje na datoteka t.sh. kje go sodrzi mojot index
+cd SI_lab1_gr2_163081/  -- vleguvanje vo rabotna datoteka
+$ git init  -- inicijalizacija na git vo rabotniot direktorium
+$ git remote set-url origin https://github.com/AKamelija/SI_lab1_gr2_-163081--.git  -- setiranje na remote na repo
+$ git add .  -- dodavanje na promenite
+$ git push -u origin master  -- sinhronizacija na lokalniot repo so remote repo
+
+
+
+https://github.com/AKamelija/SI_lab1_gr2_-163081-
